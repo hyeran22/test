@@ -837,7 +837,6 @@
     },
     "selectedTokenSets": {
       "01_ssg/default": "enabled",
-      "01_ssg/button": "enabled",
       "04_delivery": "enabled",
       "01_ssg/content": "enabled"
     },
@@ -1434,7 +1433,6 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "01_ssg/default": "enabled",
-      "01_ssg/button": "enabled",
       "03_site": "enabled",
       "04_delivery": "enabled"
     },
@@ -1707,7 +1705,6 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "01_ssg/default": "enabled",
-      "01_ssg/button": "enabled",
       "03_site": "enabled",
       "04_delivery": "enabled"
     },
@@ -1980,7 +1977,6 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "01_ssg/default": "enabled",
-      "01_ssg/button": "enabled",
       "05_service": "enabled"
     },
     "group": "service",
@@ -2229,7 +2225,6 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "01_ssg/default": "enabled",
-      "01_ssg/button": "enabled",
       "05_service": "enabled"
     },
     "group": "service",

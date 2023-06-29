@@ -11,22 +11,6 @@
           "value": "{01_ssg.netural.black}",
           "type": "color",
           "description": "- 제일 중요한 내용\nex) 상품모듈 가격, 구조개선 퀵링크 텍스트"
-        },
-        "24b": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.bold}",
-            "fontSize": "{fontsize.4xl}"
-          },
-          "type": "typography"
-        },
-        "20b": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.bold}",
-            "fontSize": "{fontsize.3xl}"
-          },
-          "type": "typography"
         }
       },
       "subtitle": {
@@ -34,30 +18,6 @@
           "value": "{01_ssg.netural.gray700}",
           "type": "color",
           "description": "- 기본 서브타이틀 컬러"
-        },
-        "18b": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.bold}",
-            "fontSize": "{fontsize.2xl}"
-          },
-          "type": "typography"
-        },
-        "16b": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.bold}",
-            "fontSize": "{fontsize.xl}"
-          },
-          "type": "typography"
-        },
-        "16m": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.medium}",
-            "fontSize": "{fontsize.xl}"
-          },
-          "type": "typography"
         }
       },
       "body": {
@@ -75,70 +35,6 @@
           "value": "{01_ssg.netural.gray400}",
           "type": "color",
           "description": "- 인풋박스 안내문구"
-        },
-        "12b": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.bold}",
-            "fontSize": "{fontsize.xs}"
-          },
-          "type": "typography"
-        },
-        "12r": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.regular}",
-            "fontSize": "{fontsize.xs}"
-          },
-          "type": "typography"
-        },
-        "13b": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.bold}",
-            "fontSize": "{fontsize.sm}"
-          },
-          "type": "typography"
-        },
-        "13r": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.regular}",
-            "fontSize": "{fontsize.sm}"
-          },
-          "type": "typography"
-        },
-        "14b": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.bold}",
-            "fontSize": "{fontsize.md}"
-          },
-          "type": "typography"
-        },
-        "14r": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.regular}",
-            "fontSize": "{fontsize.md}"
-          },
-          "type": "typography"
-        },
-        "15b": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.bold}",
-            "fontSize": "{fontsize.lg}"
-          },
-          "type": "typography"
-        },
-        "15r": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.regular}",
-            "fontSize": "{fontsize.lg}"
-          },
-          "type": "typography"
         }
       },
       "caption": {
